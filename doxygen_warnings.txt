@@ -1,0 +1,168 @@
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:85: warning: documented symbol `void BaseType::m_duplicate' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:125: warning: documented symbol `BaseType::BaseType' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:143: warning: documented symbol `BaseType::BaseType' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:150: warning: documented symbol `BaseType::BaseType' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:156: warning: documented symbol `BaseType::~BaseType' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:167: warning: no matching class member found for 
+  BaseType & BaseType::operator=(const BaseType &rhs)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:183: warning: documented symbol `string BaseType::toString' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:215: warning: documented symbol `BaseType * BaseType::transform_to_dap4' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:236: warning: no matching class member found for 
+  void BaseType::dump(ostream &strm) const
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:265: warning: documented symbol `string BaseType::name' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:277: warning: documented symbol `string BaseType::FQN' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:289: warning: documented symbol `void BaseType::set_name' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:303: warning: documented symbol `string BaseType::dataset' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:310: warning: documented symbol `Type BaseType::type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:317: warning: documented symbol `void BaseType::set_type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:324: warning: documented symbol `string BaseType::type_name' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:338: warning: documented symbol `bool BaseType::is_simple_type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:347: warning: documented symbol `bool BaseType::is_vector_type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:357: warning: documented symbol `bool BaseType::is_constructor_type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:388: warning: documented symbol `int BaseType::element_count' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:397: warning: documented symbol `bool BaseType::synthesized_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:408: warning: documented symbol `void BaseType::set_synthesized_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:425: warning: documented symbol `bool BaseType::read_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:461: warning: documented symbol `void BaseType::set_read_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:499: warning: documented symbol `bool BaseType::send_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:513: warning: documented symbol `void BaseType::set_send_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:527: warning: documented symbol `AttrTable & BaseType::get_attr_table' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:535: warning: documented symbol `void BaseType::set_attr_table' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:544: warning: documented symbol `D4Attributes * BaseType::attributes' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:551: warning: documented symbol `void BaseType::set_attributes' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:557: warning: documented symbol `void BaseType::set_attributes_nocopy' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:589: warning: documented symbol `void BaseType::transfer_attributes' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:624: warning: documented symbol `bool BaseType::is_in_selection' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:639: warning: documented symbol `void BaseType::set_in_selection' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:654: warning: documented symbol `void BaseType::set_parent' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:672: warning: documented symbol `BaseType * BaseType::get_parent' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:679: warning: documented symbol `BaseType * BaseType::var' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:701: warning: documented symbol `BaseType * BaseType::var' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:736: warning: documented symbol `void BaseType::add_var' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:742: warning: documented symbol `void BaseType::add_var_nocopy' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:820: warning: documented symbol `bool BaseType::read' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:829: warning: documented symbol `void BaseType::intern_data' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:848: warning: documented symbol `void BaseType::intern_data' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:858: warning: no uniquely matching class member found for 
+  bool BaseType::serialize(ConstraintEvaluator &, DDS &, Marshaller &, bool)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:864: warning: no uniquely matching class member found for 
+  bool BaseType::deserialize(UnMarshaller &, DDS *, bool)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:870: warning: no uniquely matching class member found for 
+  void BaseType::serialize(D4StreamMarshaller &, DMR &, bool)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:876: warning: no uniquely matching class member found for 
+  void BaseType::deserialize(D4StreamUnMarshaller &, DMR &)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:924: warning: documented symbol `void BaseType::print_decl' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:975: warning: documented symbol `void BaseType::print_decl' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1011: warning: no uniquely matching class member found for 
+  void BaseType::print_val(FILE *out, string space, bool print_decl_p)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1026: warning: documented symbol `void BaseType::print_xml' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1041: warning: documented symbol `void BaseType::print_xml' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1055: warning: documented symbol `void BaseType::print_xml_writer' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1085: warning: documented symbol `void BaseType::print_dap4' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1130: warning: documented symbol `bool BaseType::check_semantics' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1177: warning: no matching class member found for 
+  bool BaseType::ops(BaseType *, int)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1203: warning: no matching class member found for 
+  bool BaseType::d4_ops(BaseType *, int)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.cc:1222: warning: no matching class member found for 
+  unsigned int BaseType::width(bool) const
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:85: warning: documented symbol `void BaseType::m_duplicate' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:125: warning: documented symbol `BaseType::BaseType' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:143: warning: documented symbol `BaseType::BaseType' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:150: warning: documented symbol `BaseType::BaseType' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:156: warning: documented symbol `BaseType::~BaseType' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:167: warning: no matching class member found for 
+  BaseType & BaseType::operator=(const BaseType &rhs)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:183: warning: documented symbol `string BaseType::toString' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:215: warning: documented symbol `BaseType * BaseType::transform_to_dap4' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:236: warning: no matching class member found for 
+  void BaseType::dump(ostream &strm) const
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:265: warning: documented symbol `string BaseType::name' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:277: warning: documented symbol `string BaseType::FQN' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:289: warning: documented symbol `void BaseType::set_name' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:303: warning: documented symbol `string BaseType::dataset' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:310: warning: documented symbol `Type BaseType::type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:317: warning: documented symbol `void BaseType::set_type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:324: warning: documented symbol `string BaseType::type_name' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:338: warning: documented symbol `bool BaseType::is_simple_type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:347: warning: documented symbol `bool BaseType::is_vector_type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:357: warning: documented symbol `bool BaseType::is_constructor_type' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:388: warning: documented symbol `int BaseType::element_count' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:397: warning: documented symbol `bool BaseType::synthesized_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:408: warning: documented symbol `void BaseType::set_synthesized_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:425: warning: documented symbol `bool BaseType::read_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:461: warning: documented symbol `void BaseType::set_read_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:499: warning: documented symbol `bool BaseType::send_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:513: warning: documented symbol `void BaseType::set_send_p' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:527: warning: documented symbol `AttrTable & BaseType::get_attr_table' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:535: warning: documented symbol `void BaseType::set_attr_table' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:544: warning: documented symbol `D4Attributes * BaseType::attributes' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:551: warning: documented symbol `void BaseType::set_attributes' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:557: warning: documented symbol `void BaseType::set_attributes_nocopy' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:589: warning: documented symbol `void BaseType::transfer_attributes' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:624: warning: documented symbol `bool BaseType::is_in_selection' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:639: warning: documented symbol `void BaseType::set_in_selection' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:654: warning: documented symbol `void BaseType::set_parent' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:672: warning: documented symbol `BaseType * BaseType::get_parent' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:679: warning: documented symbol `BaseType * BaseType::var' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:701: warning: documented symbol `BaseType * BaseType::var' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:736: warning: documented symbol `void BaseType::add_var' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:742: warning: documented symbol `void BaseType::add_var_nocopy' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:820: warning: documented symbol `bool BaseType::read' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:829: warning: documented symbol `void BaseType::intern_data' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:848: warning: documented symbol `void BaseType::intern_data' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:858: warning: no uniquely matching class member found for 
+  bool BaseType::serialize(ConstraintEvaluator &, DDS &, Marshaller &, bool)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:864: warning: no uniquely matching class member found for 
+  bool BaseType::deserialize(UnMarshaller &, DDS *, bool)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:870: warning: no uniquely matching class member found for 
+  void BaseType::serialize(D4StreamMarshaller &, DMR &, bool)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:876: warning: no uniquely matching class member found for 
+  void BaseType::deserialize(D4StreamUnMarshaller &, DMR &)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:924: warning: documented symbol `void BaseType::print_decl' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:975: warning: documented symbol `void BaseType::print_decl' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1011: warning: no uniquely matching class member found for 
+  void BaseType::print_val(FILE *out, string space, bool print_decl_p)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1026: warning: documented symbol `void BaseType::print_xml' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1041: warning: documented symbol `void BaseType::print_xml' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1055: warning: documented symbol `void BaseType::print_xml_writer' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1085: warning: documented symbol `void BaseType::print_dap4' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1130: warning: documented symbol `bool BaseType::check_semantics' was not declared or defined.
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1177: warning: no matching class member found for 
+  bool BaseType::ops(BaseType *, int)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1203: warning: no matching class member found for 
+  bool BaseType::d4_ops(BaseType *, int)
+
+/Users/jimg/src/opendap/doxy_test/BaseType.h:1222: warning: no matching class member found for 
+  unsigned int BaseType::width(bool) const
+
+/Users/jimg/src/opendap/doxy_test/Byte.h:90: warning: Member buf2val(void **val) (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:72: warning: Member Byte(const Byte &copy_from) (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:85: warning: Member compute_checksum(Crc32 &checksum) (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:87: warning: Member deserialize(D4StreamUnMarshaller &um, DMR &dmr) (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:74: warning: Member operator=(const Byte &rhs) (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:98: warning: Member ops(BaseType *b, int op) (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:95: warning: Member print_val(FILE *out, string space="", bool print_decl_p=true) (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:96: warning: Member print_val(ostream &out, string space="", bool print_decl_p=true) (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:78: warning: Member ptr_duplicate() (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:76: warning: Member width(bool constrained=false) const (function) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.h:63: warning: Member d_buf (variable) of class libdap::Byte is not documented.
+/Users/jimg/src/opendap/doxy_test/Byte.cc:170: warning: argument 'eval' of command @param is not found in the argument list of libdap::Byte::serialize(D4StreamMarshaller &m, DMR &dmr, bool filter=false)
