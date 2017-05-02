@@ -24,3 +24,4 @@ update-gh-pages: generate-docs
 
 docs: update-gh-pages
 	@echo "Documentation updated"
+	git checkout master
