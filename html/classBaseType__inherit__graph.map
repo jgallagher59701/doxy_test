@@ -1,0 +1,4 @@
+<map id="BaseType" name="BaseType">
+<area shape="rect" id="node2" href="$classlibdap_1_1Byte.html" title="Holds a single byte. " alt="" coords="5,127,166,333"/>
+<area shape="rect" id="node3" href="$classlibdap_1_1Int32.html" title="Holds a 32&#45;bit signed integer. " alt="" coords="189,127,350,333"/>
+</map>

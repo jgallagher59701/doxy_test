@@ -1,0 +1,25 @@
+var classlibdap_1_1Int32 =
+[
+    [ "Int32", "classlibdap_1_1Int32.html#aca0a0d84a219e98c4ebbd7afda49af26", null ],
+    [ "Int32", "classlibdap_1_1Int32.html#aa965395a50cee7277d9773f762a9c205", null ],
+    [ "Int32", "classlibdap_1_1Int32.html#a8afca7647664422621ee75f1aa13b5df", null ],
+    [ "~Int32", "classlibdap_1_1Int32.html#a7ac41b60930b8ffbf78104d44298512c", null ],
+    [ "buf2val", "classlibdap_1_1Int32.html#a56e6f9ece856568be871fab239328912", null ],
+    [ "compute_checksum", "classlibdap_1_1Int32.html#a64d749e3500405c7f6f0ae194cc0fd69", null ],
+    [ "d4_ops", "classlibdap_1_1Int32.html#ab74be58716d8c3e6d26462dff2a9b565", null ],
+    [ "deserialize", "classlibdap_1_1Int32.html#aac0c8bdfad94663d57af5f7a571451a4", null ],
+    [ "deserialize", "classlibdap_1_1Int32.html#aad1329f624040df27cb880d7e2640a4a", null ],
+    [ "dump", "classlibdap_1_1Int32.html#aaae2d081b7d4d852854648b37441ed4d", null ],
+    [ "operator=", "classlibdap_1_1Int32.html#a80c3a12adf61bc928a616df9c08ee96c", null ],
+    [ "ops", "classlibdap_1_1Int32.html#ac319d1cdae57d4fc7bfbd972f2f8d4a1", null ],
+    [ "print_val", "classlibdap_1_1Int32.html#abd206d26908919c73e932a59d02966ba", null ],
+    [ "print_val", "classlibdap_1_1Int32.html#ae8cb63e9eb85cbc3e378267670b0aef5", null ],
+    [ "ptr_duplicate", "classlibdap_1_1Int32.html#aa7ff77174068c8b33d51d065ed922af4", null ],
+    [ "serialize", "classlibdap_1_1Int32.html#ac769546107e556cfdefa0fb4961711e8", null ],
+    [ "serialize", "classlibdap_1_1Int32.html#a8c67aae2fbbbe48c5b6d8049d5af04a2", null ],
+    [ "set_value", "classlibdap_1_1Int32.html#a5268f9af882bbc19ac5dccf2bcb5ea9a", null ],
+    [ "val2buf", "classlibdap_1_1Int32.html#a8beb52ecacfe72077489b5687db7b9a4", null ],
+    [ "value", "classlibdap_1_1Int32.html#a473e8004d97400c60905fd82e2bc26b7", null ],
+    [ "width", "classlibdap_1_1Int32.html#a38a592e39c59f44933d490373f6fbe7c", null ],
+    [ "d_buf", "classlibdap_1_1Int32.html#a8081532830cd553bf75b79f8925a5068", null ]
+];
