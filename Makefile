@@ -9,7 +9,7 @@ gh-pages-present:
 
 clean-gh-pages: gh-pages-present
 	git checkout gh-pages
-	git rm -rf ${HTML_DOCS}/*
+	-git rm -rf ${HTML_DOCS}/*
 	git commit -m "Removed old docs"
 
 generate-docs: clean-gh-pages
